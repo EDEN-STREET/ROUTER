@@ -1,7 +1,7 @@
 # EDEN Suite · Arbeitsauftrag 10: ROUTER und Mudi V2
-[![Visualisierte Workflow-Vorschau 10](../media/workflows/WF-10.svg)](../workflow.html?id=10)
+[![Visualisierte Workflow-Vorschau 10](https://raw.githubusercontent.com/EDEN-STREET/.github/main/docs/media/workflows/WF-10.svg)](https://eden-street.github.io/.github/workflow.html?id=10)
 
-**[Interaktive Schritt-für-Schritt-Demo öffnen](../workflow.html?id=10)** · Die Darstellung ist eine simulierte Prozessansicht, kein tatsächlich ausgeführter Workflow.
+**[Interaktive Schritt-für-Schritt-Demo öffnen](https://eden-street.github.io/.github/workflow.html?id=10)** · Die Darstellung ist eine simulierte Prozessansicht, kein tatsächlich ausgeführter Workflow.
 
 
 
@@ -55,4 +55,4 @@
 **Freigaberegel:** Keine unautorisierten Änderungen an Betriebssystem, Firmware, Netzwerkinfrastruktur, Partitionierung oder Zugriffsrechten. Keine Secrets und privaten Originale in öffentliche Repositories.
 
 ## Verknüpfungen
-[Masterdokumentation](../EDEN-STREET-MASTERDOKUMENTATION.md) · [Agentenrollen](../AGENTEN-UND-WORKFLOWS.md) · [Demoportal](../index.html)
+[Masterdokumentation](https://github.com/EDEN-STREET/.github/blob/main/docs/EDEN-STREET-MASTERDOKUMENTATION.md) · [Agentenrollen](https://github.com/EDEN-STREET/.github/blob/main/docs/AGENTEN-UND-WORKFLOWS.md) · [Demoportal](https://eden-street.github.io/.github/)
