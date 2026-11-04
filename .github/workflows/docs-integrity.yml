@@ -1,0 +1,20 @@
+name: "EDEN Documentation Integrity"
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  links:
+    name: Validate Markdown links and repo status
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Offline static documentation verification
+        run: node scripts/check_docs.mjs
